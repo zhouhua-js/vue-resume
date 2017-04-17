@@ -1,6 +1,6 @@
 {
   "name": "vue-resume",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A vue plugin. It's helpful if you need do something when your page show again from background.",
   "main": "./dist/vue-resume.js",
   "scripts": {
@@ -14,7 +14,9 @@
     "url": "git+https://github.com/zhouhua-js/vue-resume.git"
   },
   "keywords": [
-    "vue", "visibility", "resume"
+    "vue",
+    "visibility",
+    "resume"
   ],
   "author": "zhouhua",
   "license": "MIT",
