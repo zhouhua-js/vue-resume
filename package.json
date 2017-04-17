@@ -1,6 +1,6 @@
 {
   "name": "vue-resume",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A vue plugin. It's helpful if you need do something when your page show again from background.",
   "main": "./dist/vue-resume.js",
   "scripts": {
